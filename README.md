@@ -1,2 +1,1 @@
-# clittlegame
-迷宫逃脱和推箱子
+# c_littlegame
